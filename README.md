@@ -46,6 +46,7 @@ py .\MDI.py
 
 * `DOB` di dataset bisa campur formatnya; script ini nyoba 2 pola umum.
 * Kalau ada tanggal yang aneh → otomatis jadi `NaT` (nggak bikin script error).
+* Jika ada masalah bisa di laporkan di Issue
 
 ## Lisensi
 
