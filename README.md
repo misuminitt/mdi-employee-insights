@@ -1,6 +1,6 @@
 # MDI Employee Insights
 
-Mini tool buat baca dan ngeringkas data karyawan dari file CSV (tugas Manajemen Data & Informasi). 
+Mini tool buat baca dan ngeringkas data karyawan dari file CSV dan Excel (tugas Manajemen Data & Informasi). 
 Fokus ke 3 hal: **gender**, **status karyawan**, dan **performance score**, plus hitung **turnover**.
 
 ## Fitur
@@ -20,7 +20,9 @@ Fokus ke 3 hal: **gender**, **status karyawan**, dan **performance score**, plus
 
 ## Install
 ```powershell
-py -m pip install pandas
+pip -r install requirements.txt
+#jika setelah di run, hasil install library masih tidak muncul coba cara ini
+py -m pip install pandas>=2.0, openpyxl>=3.0
 ````
 
 ## Cara pakai
