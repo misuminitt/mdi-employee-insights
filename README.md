@@ -1,5 +1,7 @@
 # MDI Employee Insights
 
+<img width="1522" height="701" alt="image" src="https://github.com/user-attachments/assets/b2c5f1b3-8ba2-43a5-bfe1-c4340683f3d7" />
+
 Mini tool buat baca dan ngeringkas data karyawan dari file CSV dan Excel (tugas Manajemen Data & Informasi). 
 Fokus ke 3 hal: **gender**, **status karyawan**, dan **performance score**, plus hitung **turnover**.
 
